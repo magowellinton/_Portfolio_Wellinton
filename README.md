@@ -3,7 +3,7 @@
 [![jupyter](https://img.shields.io/badge/ide-jupyter-orange.svg)](https://jupyter.org/index.html)
 
 <p align="center">
-  <img src="banner_1.png" >
+  <img src="banner_1.jpg" >
 </p>
 
 # Wellinton Nardes
