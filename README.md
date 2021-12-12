@@ -1,6 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/_cont_-Linkedin-blue.svg)](https://www.linkedin.com/in/wellinton-nardes/)
 [![GitHub](https://img.shields.io/badge/_cont_-GitHub-green.svg)](https://github.com/magowellinton)
-[![Portfolio](https://img.shields.io/badge/_cont_-Portfolio-orange.svg)](https://github.com/magowellinton)
+[![Portfolio](https://img.shields.io/badge/_cont_-Portfolio-orange.svg)](https://github.com/magowellinton/_portfolio_wellinton/blob/main/README.md)
 
 
 <p align="center">
