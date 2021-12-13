@@ -13,7 +13,7 @@
 
 Sou um profissional de atuação em Analise de Dados, área que está sempre estimulando a busca por novos aprendizados e vivências. Fruto de uma formação multidisciplinar, sempre busco utilizar métodos e ferramentas diversas, pois procuro experimentar e adequar tecnologias conforme a necessidade de cada abordagem na resolução de problemas.
 
-Minha formação abrange o mestrado em Desenvolvimento Rural pela Universidade Federal do Rio Grande do Sul (UFRGS) e graduação Geografia Bacharelado pela Universidade Federal de Mato Grosso (UFMT). Ambas as formações deram base e direcionamento de forma significativa para a área de Análise de Dados.
+Minha formação abrange o mestrado em Desenvolvimento Rural pela Universidade Federal do Rio Grande do Sul (UFRGS) e a graduação em Geografia Bacharelado pela Universidade Federal de Mato Grosso (UFMT). Ambas as formações deram base e direcionamento de forma significativa para a área de Análise de Dados.
 
 
 **Experiência com:** Python, Machine Learning, SQL e ArcGis.
