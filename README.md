@@ -8,7 +8,7 @@
 </p>
 
 # Wellinton Nardes
-<sub> CIÊNCIA DE DADOS | PYTHON | MACHINE LEARNING | GIS <sub>
+<sub> | Ciência de Dados | Python | Machine Learning | GIS <sub>
 
 
 Sou um profissional de atuação em Analise de Dados, área que está sempre estimulando a busca por novos aprendizados e vivências. Fruto de uma formação multidisciplinar, sempre busco utilizar métodos e ferramentas diversas, pois procuro experimentar e adequar tecnologias conforme a necessidade de cada abordagem na resolução de problemas.
