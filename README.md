@@ -8,10 +8,10 @@
 </p>
 
 # Wellinton Nardes
-<sub>  Ciência de Dados | Python | Machine Learning | GIS  <sub>
+<sub>  Data Analysis | Python | Machine Learning  <sub>
 
 
-**Experiência com:** Python, Machine Learning, SQL e ArcGis.
+**Experiência com:** Analise de Dados, SQL, Python e Machine Learning.
 
 
 
@@ -26,6 +26,7 @@ Links dos meus projetos:
 * [Usando Regressão Linear Para Prever Preços de Apartamentos](https://github.com/magowellinton/data_analysis_notebooks/blob/main/Previsao_Precos_Aps/Previsao_Precos_Aps_Linear_Regression.ipynb)
 * [Árvore de Decisão na Classificação de Medicamentos](https://github.com/magowellinton/data_analysis_notebooks/blob/main/Classificacao_Medicamentos/Classificacao_Medicamentos_Decision_Tree.ipynb)
 * [Agrupamento de Imóveis Para Aluguel Com K-Means](https://github.com/magowellinton/data_analysis_notebooks/blob/main/Criando_Grupos_Alugueis/Criando_Grupos_Alugueis_KMeans.ipynb)
+* [Análise_da Ocupação_e Preços de Anúncios_no Airbnb](https://github.com/magowellinton/data_analysis_notebooks/blob/main/Análise_Ocupação_Anúncios_Airbnb/Análise_Ocupação_Anúncios_Airbnb.ipynb)
 ---
 
 
