@@ -17,7 +17,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wellinton-nardes/)
-* [GitHub](https://github.com/magowellinton)
+* [GitHub](https://github.com/nardeswellinton)
 
 
 ## Projetos
